@@ -1,6 +1,6 @@
 body {
-  background-color: #ff0000;
-  color: #0000FF;
+  background-color: #ffffff;
+  color: #000000;
 }
 
 nav {
@@ -50,3 +50,24 @@ article {
   margin: 0 auto;
   width: 50%;
 }
+
+a {text-decoration: none;}
+
+a:hover{color: orange;}
+
+h1 {
+  font-size: 2em;
+padding-bottom: 20px;
+}
+
+h3 {
+  font-size: 1.5em;
+   padding-bottom: 20px;
+ }
+
+p {
+  classauthor-font-style: italic;
+ padding-bottom: 20px;
+}
+
+figcaption {padding-bottom: 20px;}
